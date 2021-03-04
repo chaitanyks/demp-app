@@ -1,0 +1,5 @@
+com\demo\practice\controller\UploadController.class
+com\demo\practice\controller\RegistrationController.class
+com\demo\practice\PracticeApplication.class
+com\demo\practice\entiry\GreetingEntity.class
+com\demo\practice\controller\GreetingController.class
